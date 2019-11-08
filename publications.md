@@ -9,7 +9,7 @@ title: Recent Publications
 - **Environmental and Human Data-Driven Model Based on Machine Learning for Prediction of Human Comfort.**  
 Fubing Mao, *Xin Zhou\**, and Ying Song. IEEE Access (2019). ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832146))
 - **LogPruner: Detect, Analyze and Prune Logging Calls in Android Apps.**  
-*Xin Zhou*, Kaidong Wu, Huaqian Cai, Shuai Lou, Ying Zhang, and Gang Huang. Science China Information Sciences (2018) ([PDF](http://scis.scichina.com/en/2018/050107.pdf))
+*Xin Zhou*, Kaidong Wu, Huaqian Cai, Shuai Lou, Ying Zhang, and Gang Huang. Science China Information Sciences (2018). ([PDF](http://scis.scichina.com/en/2018/050107.pdf))
 
 #### Conference papers
 - **LogPruner: A Tool for Pruning Logging Call in Android Apps.**  

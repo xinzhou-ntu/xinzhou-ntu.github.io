@@ -4,7 +4,8 @@ title: Recent Papers
 ---
 
 #### Journal papers
-- **Xin Zhou**, Yohei Murakami, Toru Ishida, Xuanzhe Liu, and Gang Huang. "ARM: Toward Adaptive and Robust Model for Reputation Aggregation." IEEE Transactions on Automation Science and Engineering (2019). ([PDF](https://ieeexplore.ieee.org/document/8672470))
+- ARM: Toward Adaptive and Robust Model for Reputation Aggregation.
+**Xin Zhou**, Yohei Murakami, Toru Ishida, Xuanzhe Liu, and Gang Huang. IEEE Transactions on Automation Science and Engineering (2019). ([PDF](https://ieeexplore.ieee.org/document/8672470))
 - Fubing Mao, **Xin Zhou***, and Ying Song. "Environmental and Human Data-Driven Model Based on Machine Learning for Prediction of Human Comfort." IEEE Access 7 (2019): 132909-132922. ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832146))
 - **Xin Zhou**, Kaidong Wu, Huaqian Cai, Shuai Lou, Ying Zhang, and Gang Huang. "LogPruner: detect, analyze and prune logging calls in Android apps." Science China Information Sciences 61, no. 5 (2018): 050107-1. ([PDF](http://scis.scichina.com/en/2018/050107.pdf))
 

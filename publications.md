@@ -1,22 +1,19 @@
 ---
 layout: page
-title: Publications
+title: Recent Papers
 ---
 
 #### Journal papers
 - **Xin Zhou**, Yohei Murakami, Toru Ishida, Xuanzhe Liu, and Gang Huang. "ARM: Toward Adaptive and Robust Model for Reputation Aggregation." IEEE Transactions on Automation Science and Engineering (2019). ([PDF](https://ieeexplore.ieee.org/document/8672470))
-- Fubing Mao, **Xin Zhou***, and Ying Song. "Environmental and Human Data-Driven Model Based on Machine Learning for Prediction of Human Comfort." IEEE Access 7 (2019): 132909-132922. ([PDF](https://ieeexplore.ieee.org/document/8832146))
-- **Xin Zhou**, Kaidong Wu, Huaqian Cai, Shuai Lou, Ying Zhang, and Gang Huang. "LogPruner: detect, analyze and prune logging calls in Android apps." Science China Information Sciences 61, no. 5 (2018): 050107-1.
+- Fubing Mao, **Xin Zhou***, and Ying Song. "Environmental and Human Data-Driven Model Based on Machine Learning for Prediction of Human Comfort." IEEE Access 7 (2019): 132909-132922. ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832146))
+- **Xin Zhou**, Kaidong Wu, Huaqian Cai, Shuai Lou, Ying Zhang, and Gang Huang. "LogPruner: detect, analyze and prune logging calls in Android apps." Science China Information Sciences 61, no. 5 (2018): 050107-1. ([PDF](http://scis.scichina.com/en/2018/050107.pdf))
 
 #### Conference papers
-- Cihang Xie, **Zhishuai Zhang**, Yuyin Zhou, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity",  Conference on Computer Vision and Pattern Recognition (CVPR) 2019 ([PDF](https://arxiv.org/pdf/1803.06978.pdf))
-- Siyuan Qiao, Wei Shen, **Zhishuai Zhang**, Bo Wang, Alan Yuille, "Deep Co-Training for Semi-Supervised Image Recognition", European Conference on Computer Vision (ECCV) 2018 ([PDF](https://arxiv.org/pdf/1803.05984.pdf))
-- Siyuan Qiao, **Zhishuai Zhang**, Wei Shen, Bo Wang, Alan Yuille, "Gradually Updated Neural Networks for Large-Scale Image Recognition", International Conference on Machine Learning (ICML) 2018 ([PDF](https://arxiv.org/pdf/1711.09280.pdf))
-- **Zhishuai Zhang**, Siyuan Qiao, Cihang Xie, Wei Shen, Bo Wang, Alan Yuille, "Single-Shot Object Detection with Enriched Semantics", Conference on Computer Vision and Pattern Recognition (CVPR) 2018 ([PDF](https://arxiv.org/pdf/1712.00433.pdf))
-- **Zhishuai Zhang\***, Cihang Xie\*, Jianyu Wang\*, Lingxi Xie, Alan Yuille (\*equal contribution), "DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion", Conference on Computer Vision and Pattern Recognition (CVPR) 2018 ([PDF](https://arxiv.org/pdf/1709.04577.pdf))
-- Cihang Xie, Jianyu Wang, **Zhishuai Zhang**, Zhou Ren, Alan Yuille, "Mitigating adversarial effects through randomization", International Conference on Learning Representations (ICLR) 2018 ([PDF](https://arxiv.org/pdf/1711.01991.pdf))
-- Cihang Xie\*, Jianyu Wang\*, **Zhishuai Zhang\***, Yuyin Zhou, Lingxi Xie, Alan Yuille (\*equal contribution), "Adversarial Examples for Semantic Segmentation and Object Detection", International Conference on Computer Vision (ICCV) 2017 ([PDF](https://arxiv.org/pdf/1703.08603.pdf))
-- Jianyu Wang\*, Cihang Xie\*, **Zhishuai Zhang\***, Jun Zhu, Lingxi Xie, Alan Yuille (\*equal contribution), "Detecting Semantic Parts on Partially Occluded Objects", British Machine Vision Conference (BMVC) 2017 ([PDF](https://arxiv.org/pdf/1707.07819.pdf))
+- Huaqian Cai, **Xin Zhou**, Shuai Lou, Ying Zhang, and Gang Huang. "LogPruner: A Tool for Pruning Logging Call in Android Apps." In Proceedings of the 9th Asia-Pacific Symposium on Internetware, p. 2:1-2:10. ACM, 2017. ([PDF](https://dl.acm.org/citation.cfm?id=3131711))
+- **Xin Zhou**, Donghui Lin, Toru Ishida, "Evaluating Reputation of Web Services under Rating Scarcity." In 2016 IEEE International Conference on Services Computing (SCC), pp. 211-218. IEEE, 2016. ([PDF](http://www.ai.soc.i.kyoto-u.ac.jp/~lindh/papers/SCC2016_Zhou.pdf)) 
+- **Xin Zhou**, Toru Ishida, and Yohei Murakami. "Dynamic sliding window model for service reputation." In 2015 IEEE International Conference on Services Computing, pp. 25-32. IEEE, 2015. ([PDF](https://arxiv.org/))
+- **Xin Zhou**, and Shigeo Matsubara. "Towards robust reputation system based on clustering approach." In 2015 IEEE International Conference on Services Computing, pp. 33-40. IEEE, 2015. ([PDF](https://arxiv.org/))
+- **Xin Zhou**, and David Kinny. "Energy-Based Particle Swarm Optimization: Collective Energy Homeostasis in Social Autonomous Robots." In Proceedings of the 2013 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)-Volume 02, pp. 31-37. IEEE Computer Society, 2013. ([PDF](https://arxiv.org/))
 <br /> 
 <br>
 <p>[* denotes corresponding author]</p>

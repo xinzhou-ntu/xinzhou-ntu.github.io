@@ -3,15 +3,10 @@ layout: page
 title: Publications
 ---
 
-[//]: #You can also browse my <a href="http://zzs.one/scholar" target="_blank">Google Scholar profile</a>.
-<br />
-
-#### Preprints
-- Adam Kortylewski, Qing Liu, Huiyu Wang, **Zhishuai Zhang**, Alan Yuille, "Compositional Convolutional Networks For Robust Object Classification under Occlusion", arXiv ([PDF](https://arxiv.org/pdf/1905.11826.pdf))
-- Yingwei Li, Song Bai, Yuyin Zhou, Cihang Xie, **Zhishuai Zhang**, Alan Yuille, "Learning Transferable Adversarial Examples via Ghost Networks", arXiv ([PDF](https://arxiv.org/pdf/1812.03413.pdf))
-- **Zhishuai Zhang**, Wei Shen, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille, "Robust Face Detection via Learning Small Faces on Hard Images", arXiv ([PDF](https://arxiv.org/pdf/1811.11662.pdf))
-- Jianyu Wang, **Zhishuai Zhang**, Cihang Xie, Vittal Premachandran, Alan Yuille, "Unsupervised learning of object semantic parts from internal states of CNNs by population encoding", arXiv ([PDF](https://arxiv.org/pdf/1511.06855.pdf))
-<br /> 
+#### Journal papers
+- **Xin Zhou**, Yohei Murakami, Toru Ishida, Xuanzhe Liu, and Gang Huang. "ARM: Toward Adaptive and Robust Model for Reputation Aggregation." IEEE Transactions on Automation Science and Engineering (2019). ([PDF](https://ieeexplore.ieee.org/document/8672470))
+- Fubing Mao, **Xin Zhou***, and Ying Song. "Environmental and Human Data-Driven Model Based on Machine Learning for Prediction of Human Comfort." IEEE Access 7 (2019): 132909-132922. ([PDF](https://ieeexplore.ieee.org/document/8832146))
+- **Xin Zhou**, Kaidong Wu, Huaqian Cai, Shuai Lou, Ying Zhang, and Gang Huang. "LogPruner: detect, analyze and prune logging calls in Android apps." Science China Information Sciences 61, no. 5 (2018): 050107-1.
 
 #### Conference papers
 - Cihang Xie, **Zhishuai Zhang**, Yuyin Zhou, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity",  Conference on Computer Vision and Pattern Recognition (CVPR) 2019 ([PDF](https://arxiv.org/pdf/1803.06978.pdf))
@@ -23,7 +18,5 @@ title: Publications
 - Cihang Xie\*, Jianyu Wang\*, **Zhishuai Zhang\***, Yuyin Zhou, Lingxi Xie, Alan Yuille (\*equal contribution), "Adversarial Examples for Semantic Segmentation and Object Detection", International Conference on Computer Vision (ICCV) 2017 ([PDF](https://arxiv.org/pdf/1703.08603.pdf))
 - Jianyu Wang\*, Cihang Xie\*, **Zhishuai Zhang\***, Jun Zhu, Lingxi Xie, Alan Yuille (\*equal contribution), "Detecting Semantic Parts on Partially Occluded Objects", British Machine Vision Conference (BMVC) 2017 ([PDF](https://arxiv.org/pdf/1707.07819.pdf))
 <br /> 
-
-#### Journal papers
-- Jianyu Wang, **Zhishuai Zhang**, Cihang Xie, Yuyin Zhou, Vittal Premachandran, Jun Zhu, Lingxi Xie, Alan Yuille, "Visual Concepts and Compositional Voting", Annals of Mathematical Sciences and Applications 2018 ([PDF](https://arxiv.org/pdf/1711.04451.pdf))
-
+<br>
+<p>[* denotes corresponding author]</p>

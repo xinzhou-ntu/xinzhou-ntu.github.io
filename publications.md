@@ -4,8 +4,8 @@ title: Recent Papers
 ---
 
 #### Journal papers
-- ARM: Toward Adaptive and Robust Model for Reputation Aggregation.  
-**Xin Zhou**, Yohei Murakami, Toru Ishida, Xuanzhe Liu, and Gang Huang. IEEE Transactions on Automation Science and Engineering (2019). ([PDF](https://ieeexplore.ieee.org/document/8672470))
+- **ARM: Toward Adaptive and Robust Model for Reputation Aggregation.**  
+*Xin Zhou*, Yohei Murakami, Toru Ishida, Xuanzhe Liu, and Gang Huang. IEEE Transactions on Automation Science and Engineering (2019). ([PDF](https://ieeexplore.ieee.org/document/8672470))
 - Environmental and Human Data-Driven Model Based on Machine Learning for Prediction of Human Comfort.  
 Fubing Mao, **Xin Zhou***, and Ying Song. IEEE Access (2019). ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832146))
 - LogPruner: detect, analyze and prune logging calls in Android apps.  
@@ -21,7 +21,7 @@ Huaqian Cai, **Xin Zhou**, Shuai Lou, Ying Zhang, and Gang Huang. Internetware, 
 - Towards robust reputation system based on clustering approach.  
 **Xin Zhou**, and Shigeo Matsubara. SCC, Jul. 2015. ([PDF](https://arxiv.org/))
 - Energy-Based Particle Swarm Optimization: Collective Energy Homeostasis in Social Autonomous Robots.  
-**Xin Zhou**, and David Kinny. "" WI-IAT, Nov. 2013. ([PDF](https://arxiv.org/))
+**Xin Zhou**, and David Kinny. WI-IAT, Nov. 2013. ([PDF](https://arxiv.org/))
 <br /> 
 <br>
 <p>[* denotes corresponding author]</p>

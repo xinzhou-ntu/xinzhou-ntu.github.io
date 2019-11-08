@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recent Papers
+title: Recent Publications
 ---
 
 #### Journal papers

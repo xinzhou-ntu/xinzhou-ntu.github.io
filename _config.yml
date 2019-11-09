@@ -31,6 +31,9 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/zx.jpg"
 
+# Google Analytics
+google_analytics: UA-151934223-1
+
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image

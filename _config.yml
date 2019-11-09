@@ -32,7 +32,8 @@ navbar-links:
 avatar: "/img/zx.jpg"
 
 # Google Analytics
-google_analytics: UA-151934223-1
+ga_track_id: 'UA-151934223-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter

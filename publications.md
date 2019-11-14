@@ -22,6 +22,11 @@ Huaqian Cai, *Xin Zhou*, Shuai Lou, Ying Zhang, and Gang Huang. Internetware, Se
 *Xin Zhou*, and Shigeo Matsubara. SCC, Jul. 2015. ([PDF@RG](https://www.researchgate.net/publication/308734912_Towards_Robust_Reputation_System_Based_on_Clustering_Approach))
 - **Energy-Based Particle Swarm Optimization: Collective Energy Homeostasis in Social Autonomous Robots.**  
 *Xin Zhou*, and David Kinny. WI-IAT, Nov. 2013. ([PDF@RG](https://www.researchgate.net/publication/262351706_Energy-Based_Particle_Swarm_Optimization_Collective_Energy_Homeostasis_in_Social_Autonomous_Robots))
+
+#### Working draft
+- **Bribery in Rating System: A Game Theoretic Perspective.**  
+Nov. 2019
+
 <br /> 
 <br>
 <p>[* denotes corresponding author]</p>

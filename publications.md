@@ -8,9 +8,9 @@ title: Recent Publications
 - **A Large-scale Analysis on Learning Patterns of MOOCs.**![DM|RecSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/dmrecsys.svg?sanitize=true)  
 In review, Oct. 2019
 - **Learning Network Representations with Different Order Structural Information.**  
-IEEE Transactions on Computational Social Systems (In review), Oct. 2019
+In review, Oct. 2019
 - **A Reputation Model Aware Buyer Repurchase and Product Return Behavior.**  
-Electronic Commerce Research and Applications (In review), Sep. 2019
+In review, Sep. 2019
 
 
 #### Journal papers

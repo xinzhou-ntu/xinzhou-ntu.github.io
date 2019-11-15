@@ -13,8 +13,9 @@ IEEE Transactions on Computational Social Systems (In review), Oct. 2019
 - **A Reputation Model Aware Buyer Repurchase and Product Return Behavior.**  
 Electronic Commerce Research and Applications (In review), Sep. 2019
 
-![Alt text](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/dmrecsys.svg?sanitize=true)
-<img src="https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/dmrecsys.svg?sanitize=true">
+
+![Alt text](./labels/dmrecsys.svg)
+<img src="./labels/dmrecsys.svg">
 
 #### Journal papers
 - **ARM: Toward Adaptive and Robust Model for Reputation Aggregation.**  

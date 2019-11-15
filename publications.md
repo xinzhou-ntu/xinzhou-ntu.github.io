@@ -30,7 +30,7 @@ Huaqian Cai, *Xin Zhou*, Shuai Lou, Ying Zhang, and Gang Huang. Internetware, Se
 Submitted, Oct. 2019
 - **Learning Network Representations with Different Order Structural Information**  
 IEEE Transactions on Computational Social Systems, Oct. 2019
-- ** A Reputation Model Aware Buyer Repurchase and Product Return Behavior**  
+- **A Reputation Model Aware Buyer Repurchase and Product Return Behavior**  
 Electronic Commerce Research and Applications, Sep. 2019
 
 <br /> 

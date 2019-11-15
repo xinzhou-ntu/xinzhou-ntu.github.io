@@ -2,6 +2,17 @@
 layout: page
 title: Recent Publications
 ---
+#### Working draft
+- **Bribery in Rating System: A Game Theoretic Perspective.**  
+(To be submitted), Nov. 2019
+- **A Large-scale Analysis on Learning Patterns of MOOCs.**
+![DM](https://camo.githubusercontent.com/d5d24e33e2f4b6fe53987419a21b203c03789a8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d50617950616c2d677265656e2e737667)  
+In review, Oct. 2019
+- **Learning Network Representations with Different Order Structural Information.**  
+IEEE Transactions on Computational Social Systems (In review), Oct. 2019
+- **A Reputation Model Aware Buyer Repurchase and Product Return Behavior.**  
+Electronic Commerce Research and Applications (In review), Sep. 2019
+
 
 #### Journal papers
 - **ARM: Toward Adaptive and Robust Model for Reputation Aggregation.**  
@@ -10,6 +21,7 @@ title: Recent Publications
 Fubing Mao, *Xin Zhou\**, and Ying Song. IEEE Access (2019). ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832146))
 - **LogPruner: Detect, Analyze and Prune Logging Calls in Android Apps.**  
 *Xin Zhou*, Kaidong Wu, Huaqian Cai, Shuai Lou, Ying Zhang, and Gang Huang. Science China Information Sciences (2018). ([PDF](http://scis.scichina.com/en/2018/050107.pdf))
+
 
 #### Conference papers
 - **LogPruner: A Tool for Pruning Logging Call in Android Apps.**  
@@ -23,17 +35,8 @@ Huaqian Cai, *Xin Zhou*, Shuai Lou, Ying Zhang, and Gang Huang. Internetware, Se
 - **Energy-Based Particle Swarm Optimization: Collective Energy Homeostasis in Social Autonomous Robots.**  
 *Xin Zhou*, and David Kinny. WI-IAT, Nov. 2013. ([PDF@RG](https://www.researchgate.net/publication/262351706_Energy-Based_Particle_Swarm_Optimization_Collective_Energy_Homeostasis_in_Social_Autonomous_Robots))
 
-![Alt text](https://camo.githubusercontent.com/d5d24e33e2f4b6fe53987419a21b203c03789a8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d50617950616c2d677265656e2e737667)
 
-#### Working draft
-- **Bribery in Rating System: A Game Theoretic Perspective.**  
-(To be submitted), Nov. 2019
-- **A Large-scale Analysis on Learning Patterns of MOOCs.**![Build Status](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/dmrecsys.svg)  
-In review, Oct. 2019
-- **Learning Network Representations with Different Order Structural Information.**  
-IEEE Transactions on Computational Social Systems (In review), Oct. 2019
-- **A Reputation Model Aware Buyer Repurchase and Product Return Behavior.**  
-Electronic Commerce Research and Applications (In review), Sep. 2019
+
 
 <br /> 
 <br>

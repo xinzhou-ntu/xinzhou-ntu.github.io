@@ -23,13 +23,13 @@ Fubing Mao, *Xin Zhou\**, and Ying Song. IEEE Access (2019). ([PDF](https://ieee
 
 
 #### Conference papers
-- **LogPruner: A Tool for Pruning Logging Call in Android Apps**  
+- **LogPruner: A Tool for Pruning Logging Call in Android Apps** ![SE](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/se.svg?sanitize=true)  
 Huaqian Cai, *Xin Zhou*, Shuai Lou, Ying Zhang, and Gang Huang. Internetware, Sep. 2017. ([PDF@RG](https://www.researchgate.net/publication/320071076_LogPruner_A_Tool_for_Pruning_Logging_Call_in_Android_Apps))
-- **Evaluating Reputation of Web Services under Rating Scarcity**  
+- **Evaluating Reputation of Web Services under Rating Scarcity** ![RepSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/repsys.svg?sanitize=true)  
 *Xin Zhou*, Donghui Lin, Toru Ishida. SCC, Jul. 2016. ([PDF](http://www.ai.soc.i.kyoto-u.ac.jp/~lindh/papers/SCC2016_Zhou.pdf)) 
-- **Dynamic Sliding Window Model for Service Reputation**  
+- **Dynamic Sliding Window Model for Service Reputation** ![RepSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/repsys.svg?sanitize=true)  
 *Xin Zhou*, Toru Ishida, and Yohei Murakami. SCC, Jul. 2015. ([PDF@RG](https://www.researchgate.net/publication/308732510_Dynamic_Sliding_Window_Model_for_Service_Reputation))
-- **Towards Robust Reputation System Based on Clustering Approach**  
+- **Towards Robust Reputation System Based on Clustering Approach** ![RepSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/repsys.svg?sanitize=true)  
 *Xin Zhou*, and Shigeo Matsubara. SCC, Jul. 2015. ([PDF@RG](https://www.researchgate.net/publication/308734912_Towards_Robust_Reputation_System_Based_on_Clustering_Approach))
 - **Energy-Based Particle Swarm Optimization: Collective Energy Homeostasis in Social Autonomous Robots**  
 *Xin Zhou*, and David Kinny. WI-IAT, Nov. 2013. ([PDF@RG](https://www.researchgate.net/publication/262351706_Energy-Based_Particle_Swarm_Optimization_Collective_Energy_Homeostasis_in_Social_Autonomous_Robots))

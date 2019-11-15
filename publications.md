@@ -28,7 +28,7 @@ Huaqian Cai, *Xin Zhou*, Shuai Lou, Ying Zhang, and Gang Huang. Internetware, Se
 #### Working draft
 - **Bribery in Rating System: A Game Theoretic Perspective.**  
 (To be submitted), Nov. 2019
-- **A Large-scale Analysis on Learning Patterns of MOOCs.**![Build Status](../labels/dmrecsys.svg)]  
+- **A Large-scale Analysis on Learning Patterns of MOOCs.**![Build Status](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/dmrecsys.svg)  
 In review, Oct. 2019
 - **Learning Network Representations with Different Order Structural Information.**  
 IEEE Transactions on Computational Social Systems (In review), Oct. 2019

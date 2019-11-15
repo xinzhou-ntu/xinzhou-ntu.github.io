@@ -14,8 +14,8 @@ IEEE Transactions on Computational Social Systems (In review), Oct. 2019
 Electronic Commerce Research and Applications (In review), Sep. 2019
 
 
-![Alt text](./labels/dmrecsys.svg)
-<img src="./labels/dmrecsys.svg">
+![Alt text](https://xinzhou-ntu.github.io/labels/dmrecsys.svg)
+<img src="https://xinzhou-ntu.github.io/labels/dmrecsys.svg">
 
 #### Journal papers
 - **ARM: Toward Adaptive and Robust Model for Reputation Aggregation.**  

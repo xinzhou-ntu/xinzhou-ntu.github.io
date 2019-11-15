@@ -14,11 +14,11 @@ In review, Sep. 2019
 
 
 #### Journal papers
-- **ARM: Toward Adaptive and Robust Model for Reputation Aggregation**  
+- **ARM: Toward Adaptive and Robust Model for Reputation Aggregation** ![RepSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/repsys.svg?sanitize=true)  
 *Xin Zhou*, Yohei Murakami, Toru Ishida, Xuanzhe Liu, and Gang Huang. IEEE Transactions on Automation Science and Engineering (2019). ([PDF](https://ieeexplore.ieee.org/document/8672470))
-- **Environmental and Human Data-Driven Model Based on Machine Learning for Prediction of Human Comfort**  
+- **Environmental and Human Data-Driven Model Based on Machine Learning for Prediction of Human Comfort** ![DM](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/dm.svg?sanitize=true)  
 Fubing Mao, *Xin Zhou\**, and Ying Song. IEEE Access (2019). ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832146))
-- **LogPruner: Detect, Analyze and Prune Logging Calls in Android Apps**  
+- **LogPruner: Detect, Analyze and Prune Logging Calls in Android Apps** ![SE](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/se.svg?sanitize=true)  
 *Xin Zhou*, Kaidong Wu, Huaqian Cai, Shuai Lou, Ying Zhang, and Gang Huang. Science China Information Sciences (2018). ([PDF](http://scis.scichina.com/en/2018/050107.pdf))
 
 

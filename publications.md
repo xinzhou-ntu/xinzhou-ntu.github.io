@@ -3,13 +3,13 @@ layout: page
 title: Recent Publications
 ---
 #### Working draft
-- **Bribery in Rating System: A Game Theoretic Perspective**![RepSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/repsys.svg?sanitize=true)**  
+- **Bribery in Rating System: A Game Theoretic Perspective** ![RepSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/repsys.svg?sanitize=true)  
 (To be submitted), Nov. 2019
-- **A Large-scale Analysis on Learning Patterns of MOOCs**![DM|RecSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/dmrecsys.svg?sanitize=true)  
+- **A Large-scale Analysis on Learning Patterns of MOOCs** ![DM|RecSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/dmrecsys.svg?sanitize=true)  
 In review, Oct. 2019
-- **Learning Network Representations with Different Order Structural Information**![GNN](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/gnn.svg?sanitize=true)  
+- **Learning Network Representations with Different Order Structural Information** ![GNN](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/gnn.svg?sanitize=true)  
 In review, Oct. 2019
-- **A Reputation Model Aware Buyer Repurchase and Product Return Behavior**![RepSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/repsys.svg?sanitize=true)  
+- **A Reputation Model Aware Buyer Repurchase and Product Return Behavior** ![RepSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/repsys.svg?sanitize=true)  
 In review, Sep. 2019
 
 

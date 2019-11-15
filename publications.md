@@ -24,7 +24,7 @@ Huaqian Cai, *Xin Zhou*, Shuai Lou, Ying Zhang, and Gang Huang. Internetware, Se
 *Xin Zhou*, and David Kinny. WI-IAT, Nov. 2013. ([PDF@RG](https://www.researchgate.net/publication/262351706_Energy-Based_Particle_Swarm_Optimization_Collective_Energy_Homeostasis_in_Social_Autonomous_Robots))
 
 #### Working draft
-- **Bribery in Rating System: A Game Theoretic Perspective.**  
+- **Bribery in Rating System: A Game Theoretic Perspective.**<table><tr><td bgcolor=#0000FF><font color="#FFFFFF">RepSys</font></td></tr></table>  
 (To be submitted), Nov. 2019
 - **A Large-scale Analysis on Learning Patterns of MOOCs.**  
 In review, Oct. 2019

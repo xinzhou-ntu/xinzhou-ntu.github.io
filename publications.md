@@ -3,10 +3,9 @@ layout: page
 title: Recent Publications
 ---
 #### Working draft
-- **Bribery in Rating System: A Game Theoretic Perspective.**![DM](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/dmrecsys.svg?sanitize=true)  
+- **Bribery in Rating System: A Game Theoretic Perspective.**![DM|RecSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/dmrecsys.svg?sanitize=true)  
 (To be submitted), Nov. 2019
-- **A Large-scale Analysis on Learning Patterns of MOOCs.**
-![DM](https://camo.githubusercontent.com/d5d24e33e2f4b6fe53987419a21b203c03789a8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d50617950616c2d677265656e2e737667)  
+- **A Large-scale Analysis on Learning Patterns of MOOCs.**  
 In review, Oct. 2019
 - **Learning Network Representations with Different Order Structural Information.**  
 IEEE Transactions on Computational Social Systems (In review), Oct. 2019

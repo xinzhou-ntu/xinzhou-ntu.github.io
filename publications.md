@@ -8,7 +8,7 @@ title: Recent Publications
 - **Bribery in Rating System: A Game Theoretic Perspective** ![RepSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/repsys.svg?sanitize=true)  
 (To be submitted), Nov. 2019
 - **Analysis of Blockchain Security against Long Delay Attack**  
-(To be submitted), Nov. 2019
+In review, Nov. 2019
 - **A Large-scale Analysis on Learning Patterns of MOOCs** ![DM|RecSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/dmrecsys.svg?sanitize=true)  
 In review, Oct. 2019
 - **Learning Network Representations with Different Order Structural Information** ![KG](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/kg.svg?sanitize=true)  

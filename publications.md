@@ -38,9 +38,5 @@ Huaqian Cai, *Xin Zhou*, Shuai Lou, Ying Zhang, and Gang Huang. Internetware, Se
 - **Energy-Based Particle Swarm Optimization: Collective Energy Homeostasis in Social Autonomous Robots**  
 *Xin Zhou*, and David Kinny. WI-IAT, Nov. 2013. ([PDF@RG](https://www.researchgate.net/publication/262351706_Energy-Based_Particle_Swarm_Optimization_Collective_Energy_Homeostasis_in_Social_Autonomous_Robots))
 
-
-
-
-<br /> 
 <br>
 <p>[* denotes corresponding author]</p>

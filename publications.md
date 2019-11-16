@@ -3,7 +3,7 @@ layout: page
 title: Recent Publications
 ---
 #### Working draft
-- **Unlocking Your App Data: A Runtime Model for Android App Interoperability** ![SE](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/se.svg?sanitize=true)  
+- **Unlocking Your Mobile Data: A Runtime Model for Android App Interoperability** ![SE](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/se.svg?sanitize=true)  
 (To be submitted), Nov. 2019
 - **Bribery in Rating System: A Game Theoretic Perspective** ![RepSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/repsys.svg?sanitize=true)  
 (To be submitted), Nov. 2019

@@ -12,9 +12,9 @@ In review, Nov. 2019
 - **A Large-scale Analysis on Learning Patterns of MOOCs** ![DM|RecSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/dmrecsys.svg?sanitize=true) ![MOOC](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/mooc.svg?sanitize=true)  
 In review, Oct. 2019
 - **Learning Network Representations with Different Order Structural Information** ![KG](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/kg.svg?sanitize=true)  
-In review, Oct. 2019
+IEEE Transactions on Computational Social Systems(In review), Oct. 2019
 - **A Reputation Model Aware Buyer Repurchase and Product Return Behavior** ![RepSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/repsys.svg?sanitize=true)  
-In review, Sep. 2019
+Electronic Commerce Research and Applications (In Review), Sep. 2019
 
 
 #### Journal papers

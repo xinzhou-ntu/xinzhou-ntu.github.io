@@ -6,7 +6,7 @@ title: Recent Publications
 - **Unlocking Your Mobile Data: A Runtime Model for Android App Interoperability** ![SE](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/se.svg?sanitize=true)  
 In review, Nov. 2019
 - **Bribery in Rating System: A Game-Theoretic Perspective** ![RepSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/repsys.svg?sanitize=true)  
-In review, Nov. 2019
+In review, Nov. 2019 ([PDF@arXiv](https://arxiv.org/submit/2940464/view))
 - **Analysis of Blockchain Security against Long Delay Attack**  
 In review, Nov. 2019
 - **A Large-scale Analysis on Learning Patterns of MOOCs** ![DM|RecSys](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/dmrecsys.svg?sanitize=true) ![MOOC](https://raw.githubusercontent.com/xinzhou-ntu/xinzhou-ntu.github.io/master/labels/mooc.svg?sanitize=true)  
